@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm BG</h1>
-<h3 align="center">A passionate Android Engineer and Startuplover from India</h3>
+<h3 align="center">I ❤ Startups. 👨‍💻 I'm also an Android Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goforbg" alt="goforbg" /> </p>
-
-- 🔭 I’m currently working on [Foodmux](http://github.com/goforbg/foodmux)
-
-- 👯 I’m looking to collaborate on [Foodmux](http://github.com/goforbg/foodmux)
 
 - 👨‍💻 All of my projects are available at [github.com/goforbg](github.com/goforbg)
 
 - 📝 I regulary write articles on [goforbg.com](goforbg.com)
 
-- 💬 Ask me about **Android, NodeJS, MongoDB.**
+- 💬 Ask me about **Startups, Android, React, NodeJS, Tailwind CSS, MongoDB.**
 
 - 📫 How to reach me **bg@goforbg.com**
 
