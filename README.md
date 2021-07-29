@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BG</h1>
-<h3 align="center">I ❤ Startups. 👨‍💻 I'm also an Android Engineer.</h3>
+<h3 align="center">I ❤ Building Startups. 👨‍💻 Android Engineer by Profession.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goforbg" alt="goforbg" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/goforbg](github.com/goforbg)
