@@ -6,9 +6,9 @@
 
 - 📝 I regulary write articles on [goforbg.com](goforbg.com)
 
-- 💬 Ask me about **Startups, Android, React, NodeJS, Tailwind CSS, MongoDB.**
+- 💬 Ask me about **Building Tech Startups, Android Apps, React JS, Next JS, NodeJS, Tailwind CSS, MongoDB, AWS.**
 
-- 📫 How to reach me **bg@goforbg.com**
+- 📫 How to reach me **bg[at]goforbg.com**
 
 - ⚡ Fun fact **Shaved my head 5 times when I drunk err on coffee.**
 
